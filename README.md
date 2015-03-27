@@ -1,2 +1,2 @@
-# intellij-a-z
-IntelliJ A-Z
+# IntelliJ A-Z
+
